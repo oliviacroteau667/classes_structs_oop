@@ -1,0 +1,14 @@
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\bin\Debug\net8.0\classes_structs_oop.exe
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\bin\Debug\net8.0\classes_structs_oop.deps.json
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\bin\Debug\net8.0\classes_structs_oop.runtimeconfig.json
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\bin\Debug\net8.0\classes_structs_oop.dll
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\bin\Debug\net8.0\classes_structs_oop.pdb
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\obj\Debug\net8.0\classes_structs_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\obj\Debug\net8.0\classes_structs_oop.AssemblyInfoInputs.cache
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\obj\Debug\net8.0\classes_structs_oop.AssemblyInfo.cs
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\obj\Debug\net8.0\classes_structs_oop.csproj.CoreCompileInputs.cache
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\obj\Debug\net8.0\classes_structs_oop.dll
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\obj\Debug\net8.0\refint\classes_structs_oop.dll
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\obj\Debug\net8.0\classes_structs_oop.pdb
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\obj\Debug\net8.0\classes_structs_oop.genruntimeconfig.cache
+C:\Users\Olivia Croteau\source\repos\classes_structs_oop\classes_structs_oop\obj\Debug\net8.0\ref\classes_structs_oop.dll

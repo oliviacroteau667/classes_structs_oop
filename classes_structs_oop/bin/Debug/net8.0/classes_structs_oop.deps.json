@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "classes_structs_oop/1.0.0": {
+        "runtime": {
+          "classes_structs_oop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "classes_structs_oop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
